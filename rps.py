@@ -2,14 +2,8 @@
 
 import random
 
-
-# answer = input("Choose an option from Rock, Paper, or Scissors\n").lower()
- 
-# print("You chose", answer)
-
 options = ("rock", "paper", "scissors")
 
-# bot = random.choice(options)
 ur_score = 0
 comp_score = 0
 
